@@ -1,4 +1,4 @@
-<img src='final-design/final-design-jersey.png' alt="jersey-image">
+<img src='final-design/final-design-jersey.png' alt="jersey-image" width="400px">
 
 This repository contains jersey designs I created for the [University of New South Wales Water Research Centre](http://www.wrc.unsw.edu.au/). I've made them available as inspiration for my own (and others) future uses.
 
