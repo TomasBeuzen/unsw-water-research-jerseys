@@ -1,7 +1,8 @@
 # UNSW Water Research Centre Jerseys
 
 <p align="center">
-  <img src='final-design/final-design-jersey.png' alt="jersey-image" width="600px" />
+  <img src='final-design/final-design-jersey.png' alt="jersey-image" width="650px" />
+  
   Concept art for the final jersey design.
 </p>
 
