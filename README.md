@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src='final-design/final-design-jersey.png' alt="jersey-image" width="650px" />
-  
-  Concept art for the final jersey design.
+  <figcaption>Fig.1 - Concept art for the final jersey design.</figcaption>
 </p>
 
 This repository contains jersey designs I created for the [University of New South Wales Water Research Centre](http://www.wrc.unsw.edu.au/). I've made them available as inspiration for my own (and others) future uses.
